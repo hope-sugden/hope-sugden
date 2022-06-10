@@ -1,7 +1,13 @@
 
 ## ![](./header.png)
 
-I have recently completed the 12 week full-stack software engineering course with _nology which has really cemented by love for technology, learning and creativity. The key skills I have learnt on this course are HTML5, CSS3, SASS, JavaScript, React, Jest, Cypress, React Testing Library, Github Actions, TTD, GCP, CI/CD, OOP, Java, Spring, and SQL. We also completed a real-life client project which will be used for testing and future development. In just 5 weeks we were able to make a functioning app to teach children phonics though a game. The app was created with a React front-end and a Spring back-end including authentication and CI deployment to GCP. I was also fortunate to be chosen as a project manager for a week.
+I have recently made a career change into software having always been interested in tech. 
+
+Having studied accounting and finance at university, I worked in the industry for 3 years, but I felt like I was undervalued, under-challenged and wanted to do something more creative. 
+
+After uni I did some travelling, and I created a blog online. I really enjoyed building my blog but wanted more flexibility for the design and functionality. I started looking into how to do this and discovered a newfound interest in software engineering. 
+
+I enrolled in the _nology course to further my learning and to help me with my career change. The _nology course has really cemented my interest in tech and my love for learning and being creative. I have really enjoyed being challenged and pushed out of my comfort zone and it has also allowed me to further develop my logical skills.
 
 ---
 
