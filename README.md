@@ -1,4 +1,5 @@
-### Hi there 👋
+
+## ![](./header.png)
 
 I have recently completed the 12 week full-stack software engineering course with _nology which has really cemented by love for technology, learning and creativity. The key skills I have learnt on this course are HTML5, CSS3, SASS, JavaScript, React, Jest, Cypress, React Testing Library, Github Actions, TTD, GCP, CI/CD, OOP, Java, Spring, and SQL. We also completed a real-life client project which will be used for testing and future development. In just 5 weeks we were able to make a functioning app to teach children phonics though a game. The app was created with a React front-end and a Spring back-end including authentication and CI deployment to GCP. I was also fortunate to be chosen as a project manager for a week.
 
