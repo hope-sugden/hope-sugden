@@ -55,7 +55,7 @@ I enrolled in the _nology course to further my learning and to help me with my c
 ## Connect with me
 
 <!-- LinkedIn -->
-<a href="www.linkedin.com/in/hope-sugden-412829109/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hope-sugden-412829109/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ---
 
