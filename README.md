@@ -46,6 +46,14 @@ I enrolled in the _nology course to further my learning and to help me with my c
 
 ---
 
+## My projects:
+
+https://hope-sugden.github.io/crochet-tracker-frontend/ A crochet project tracker 🧶
+https://hope-sugden.github.io/brewdog-project/ A Brewdog beer app 🍻
+https://hope-sugden.github.io/js-game-project/ A quiz 🧠
+
+---
+
 ## My Stats
 
 <div style="display: flex; width: 100%; justify-content: center; padding-top: 2rem;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hope-sugden&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></div>
