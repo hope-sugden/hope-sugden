@@ -11,6 +11,14 @@ I enrolled in the _nology course to further my learning and to help me with my c
 
 ---
 
+## My projects:
+
+https://hope-sugden.github.io/crochet-tracker-frontend/ A crochet project tracker 🧶
+https://hope-sugden.github.io/brewdog-project/ A Brewdog beer app 🍻
+https://hope-sugden.github.io/js-game-project/ A quiz 🧠
+
+---
+
 ## Languages, Frameworks, and Tools:
 
 <div style="display: flex; justify-content: flex-start; flex-wrap: wrap; gap: 6px">
@@ -43,14 +51,6 @@ I enrolled in the _nology course to further my learning and to help me with my c
 <!-- Postman -->
 <img src="https://img.shields.io/badge/-Postman-blueviolet?logo=postman" />
 </div>
-
----
-
-## My projects:
-
-https://hope-sugden.github.io/crochet-tracker-frontend/ A crochet project tracker 🧶
-https://hope-sugden.github.io/brewdog-project/ A Brewdog beer app 🍻
-https://hope-sugden.github.io/js-game-project/ A quiz 🧠
 
 ---
 
