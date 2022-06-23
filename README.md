@@ -14,7 +14,9 @@ I enrolled in the _nology course to further my learning and to help me with my c
 ## My projects:
 
 https://hope-sugden.github.io/crochet-tracker-frontend/ A crochet project tracker 🧶
+
 https://hope-sugden.github.io/brewdog-project/ A Brewdog beer app 🍻
+
 https://hope-sugden.github.io/js-game-project/ A quiz 🧠
 
 ---
